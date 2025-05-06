@@ -16,6 +16,7 @@ This repository contains a simple Python pipeline for sampling Yelp review data,
 - **Visualization**  
   ![Jittered Distribution of Star Ratings vs. Sentiment Scores](Jittered%20Distribution%20of%20Star%20Ratings%20vs.%20Sentiment%20Scores.png)
   The output image clearly displays each review as an “×” marker, with axes labeled and gridlines for reference.
+  We can see a clear correlation between the score given by the model and the stars given by the user (ground truth).
 
 ## Usage
 
